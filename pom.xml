@@ -23,6 +23,7 @@
         <java.version>1.8</java.version>
     </properties>
     <dependencies>
+             <!--Common added from github-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
