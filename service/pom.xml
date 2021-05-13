@@ -11,6 +11,10 @@
 
     <artifactId>service</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>property_service</module>
+        <module>user_service</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

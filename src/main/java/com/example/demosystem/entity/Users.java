@@ -27,7 +27,6 @@ public class Users {
     @Version
     @TableField(fill = FieldFill.DEFAULT)
     private Integer version;
-
     @TableLogic
     private int isDeleted;
 
